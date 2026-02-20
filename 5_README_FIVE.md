@@ -33,7 +33,7 @@ The app is production-ready and deployable, and I’ve planned improvements like
 “Explain the role of App.jsx.”
 
 ✅ Model Answer:
-“App.jsx is the root component. It manages global concerns like theme state, applies the theme class to the HTML element, wraps the app with ThemeContext, and renders all major sections like Banner, About, Projects, and Contact.”
+“App.jsx is the root component. It manages global concerns like theme state, applies the theme class to the HTML element, wraps the app with ThemeContext to show the theme mode for whole app, and renders all major sections like Banner, About, Projects, and Contact.”
 
 ---
 
