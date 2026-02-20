@@ -192,7 +192,7 @@ App.jsx
 
 * Scroll event listener
 * Conditional rendering
-* Smooth scrolling
+* Smooth scrolling behavior
 
 ---
 
@@ -201,7 +201,7 @@ App.jsx
 ### What it does
 
 * Floating social icons
-* Dismissible panel
+* Dismissible panel 
 
 ### UX consideration
 
