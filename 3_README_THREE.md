@@ -201,7 +201,7 @@ App.jsx
 ### What it does
 
 * Floating social icons
-* Dismissible panel 
+* Dismissible panel (Popup)
 
 ### UX consideration
 
